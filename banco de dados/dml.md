@@ -10,7 +10,7 @@ Insere um registro na tabela. Para inserir os registros fora da ordem natural do
 
 ### **[Sintaxe básica](https://mariadb.com/kb/en/insert/)**
 
-````
+```
 INSERT INTO nome_da_tabela [(col, ...)] VALUES (expr)
 ```
 
